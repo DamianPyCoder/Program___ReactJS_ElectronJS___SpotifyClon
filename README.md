@@ -28,46 +28,52 @@ All of this with clean code, best practices, and component reuse.
 
 <details>
 <summary>Clone the repository from GitHub</summary>
-
    - Open your terminal or command line on your computer.
    - Use the `git clone` command followed by the repository URL to clone the project to your local machine.
      ```
      git clone https://repository-url.git
      ```
-
 </details>
 
-
-
-
-**Install dependencies:**
+<details>
+<summary>Install dependencies</summary>
    - Once the repository is cloned to your local machine, navigate to the project directory.
    - Run the `npm install` command to install all the project dependencies defined in the `package.json` file.
      ```
      cd project-name
      npm install
      ```
+</details>  
 
-**Configure Firebase:**
+<details>
+<summary>Configure Firebase</summary>
    - If the project is linked with Firebase, you may need to configure Firebase credentials in the project.
    - Open the Firebase configuration file (usually named `firebaseConfig.js` or similar) and ensure that the credentials are correct for your Firebase project.
+</details>
 
-**Run the application:**
+
+
+<details>
+<summary>Run the application</summary>
    - Once all dependencies are installed and configuration is complete, you can run the application.
    - Use the `npm start` command to start the application.
      ```
      npm start
      ```
+</details>
 
-**Compile the application for Electron (if necessary):**
+<details>
+<summary>Compile the application for Electron</summary>
    - If the project uses Electron JS, you may need to compile the application to work with Electron.
    - Follow the instructions provided in the project documentation to compile the application for Electron.
    - Typically, this involves running a specific build script for Electron.
+</details>
 
-**Test the application:**
+<details>
+<summary>Test the application</summary>
    - Once the application is up and running, open a web browser and access the application locally.
    - Ensure that all functionalities are working as expected, including Firebase-related functionalities such as authentication or database access.
-
+</details>
 
 
 
