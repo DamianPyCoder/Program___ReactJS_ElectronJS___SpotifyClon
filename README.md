@@ -17,7 +17,7 @@ React JS, Electron JS, Firebase and SASS
 
 
 ## 4. Images and Videos
-
+![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/0.png)
 
 ## 5. Development Roadmap
 
