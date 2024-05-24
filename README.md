@@ -1,5 +1,14 @@
 # HONIDA WAVE MUSIC PLAYER 
 ## 1. Description.
+Spotify clone built with React, Electron, and Firebase, where both user information and library content (songs, albums, and artists) will be hosted.
+
+It features a registration and login system.
+
+In the application, we will have different sections, a left-side menu to access the artist, song, and album libraries, and below, different forms to create and upload new songs, albums, and artists.
+At the bottom, we will have the player, with a volume control, a progress bar, a single play and pause button, and information about the song's name and photo.
+On the right side, we will have buttons to log out and to access our user profile. Upon logging in, we can access the user settings menu where we can change the avatar, name, and password.
+
+All of this with clean code, best practices, and component reuse.  
 
 
 ## 2. Built with.
