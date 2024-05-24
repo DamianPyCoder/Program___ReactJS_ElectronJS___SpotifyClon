@@ -19,7 +19,7 @@ On the right side, we will have buttons to log out and to access our user profil
 
 ![](https://github.com/DamianPyCoder/RandomAssets__minicons__V1/blob/main/volum.svg)  On the right, the volume control.  
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>![](https://github.com/DamianPyCoder/RandomAssets__minicons__V1/blob/main/arrowTop.svg)
 
 ## 2. Built with.
 <img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/VSCode-Dark.svg" width="50"> <img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/React-Dark.svg" width="50">
