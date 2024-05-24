@@ -26,7 +26,11 @@ React JS, Electron JS, Firebase and SASS
 Source of the icon: [Uniconlabs](https://www.flaticon.es/icono-gratis/nota-musical_3293813?related_id=3293822&origin=search)
 ### 5.2 Color palette
 <img src="https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/raw/main/reproductor_picts/Palette2.png" height="50%">
-
+#### Primary colors
+rgb(5,5,5)
+rgb(28,187,84)
+rgb(205,209,207)
+rgb(36,36,35)
 
 
 
