@@ -19,9 +19,6 @@ React JS, Electron JS, Firebase and SASS
 
 
 ## 4. Development Roadmap
-![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/11.png)
-![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/13.png)
-![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/12.png)
 
 ## 5. Typography, Colors, icons and Other Elements
 ### 5.1 Icons
@@ -33,13 +30,10 @@ React JS, Electron JS, Firebase and SASS
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/1.png)
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/2.png)
 
-
 ### 6.2 The music player
-
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/10.png)
 
 ### 6.3 The library
-
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/4.png)
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/5.png)
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/6.png)
@@ -49,3 +43,8 @@ React JS, Electron JS, Firebase and SASS
 
 ### 6.4 Profile
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/3.png)
+
+### 6.5 Edit library
+![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/11.png)
+![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/13.png)
+![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/12.png)
