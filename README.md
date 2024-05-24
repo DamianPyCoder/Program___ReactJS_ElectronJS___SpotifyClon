@@ -1,5 +1,6 @@
 
-# HONIDA WAVE MUSIC PLAYER (Desktop application)
+# HONIDA WAVE MUSIC PLAYER
+##
 
 ## Built with.
 React JS, Electron JS, Firebase and SASS
