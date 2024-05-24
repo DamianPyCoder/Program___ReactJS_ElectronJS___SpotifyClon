@@ -12,14 +12,14 @@
 
 
 ## 3. How to Download the Repository / Install the APK
-3.1. **Clone the repository from GitHub:**
+**Clone the repository from GitHub:**
    - Open your terminal or command line on your computer.
    - Use the `git clone` command followed by the repository URL to clone the project to your local machine.
      ```
      git clone https://repository-url.git
      ```
 
-3.2. **Install dependencies:**
+**Install dependencies:**
    - Once the repository is cloned to your local machine, navigate to the project directory.
    - Run the `npm install` command to install all the project dependencies defined in the `package.json` file.
      ```
@@ -27,23 +27,23 @@
      npm install
      ```
 
-3.3. **Configure Firebase:**
+**Configure Firebase:**
    - If the project is linked with Firebase, you may need to configure Firebase credentials in the project.
    - Open the Firebase configuration file (usually named `firebaseConfig.js` or similar) and ensure that the credentials are correct for your Firebase project.
 
-3.4. **Run the application:**
+**Run the application:**
    - Once all dependencies are installed and configuration is complete, you can run the application.
    - Use the `npm start` command to start the application.
      ```
      npm start
      ```
 
-3.5. **Compile the application for Electron (if necessary):**
+**Compile the application for Electron (if necessary):**
    - If the project uses Electron JS, you may need to compile the application to work with Electron.
    - Follow the instructions provided in the project documentation to compile the application for Electron.
    - Typically, this involves running a specific build script for Electron.
 
-3.6. **Test the application:**
+**Test the application:**
    - Once the application is up and running, open a web browser and access the application locally.
    - Ensure that all functionalities are working as expected, including Firebase-related functionalities such as authentication or database access.
 
