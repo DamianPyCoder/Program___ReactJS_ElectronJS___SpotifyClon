@@ -54,7 +54,7 @@ All of this with clean code, best practices, and component reuse.
    
    - If the project is linked with Firebase, you may need to configure Firebase credentials in the project.
    - Open the Firebase configuration file (usually named `firebaseConfig.js` or similar) and ensure that the credentials are correct for your Firebase project.
-   - 
+
 </details>
 
 
@@ -76,7 +76,7 @@ All of this with clean code, best practices, and component reuse.
    - If the project uses Electron JS, you may need to compile the application to work with Electron.
    - Follow the instructions provided in the project documentation to compile the application for Electron.
    - Typically, this involves running a specific build script for Electron.
-   - 
+
 </details>
 
 <details>
@@ -84,7 +84,7 @@ All of this with clean code, best practices, and component reuse.
    
    - Once the application is up and running, open a web browser and access the application locally.
    - Ensure that all functionalities are working as expected, including Firebase-related functionalities such as authentication or database access.
-   - 
+
 </details>
 
 
