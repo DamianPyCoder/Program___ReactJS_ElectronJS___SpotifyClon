@@ -1,5 +1,5 @@
-
-<img src="https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/logo-name-green.png" width="50"> # HONIDA WAVE MUSIC PLAYER
+# HONIDA WAVE MUSIC PLAYER 
+<img src="https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/logo-name-green.png" width="50">
 ## 1. Description.
 
 
