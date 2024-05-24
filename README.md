@@ -25,9 +25,9 @@ All of this with clean code, best practices, and component reuse.
 
 
 ## 3. How to Download the Repository / Install the APK
-**Clone the repository from GitHub:**
+
 <details>
-<summary>Haz clic aquí para ver más</summary>
+<summary>Clone the repository from GitHub</summary>
 
    - Open your terminal or command line on your computer.
    - Use the `git clone` command followed by the repository URL to clone the project to your local machine.
