@@ -11,7 +11,13 @@ On the right side, we will have buttons to log out and to access our user profil
 All of this with clean code, best practices, and component reuse.  
 
 
+![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/10.png)
 
+![](https://github.com/DamianPyCoder/RandomAssets__minicons__V1/blob/main/songlibrary.svg)  On the left, the song image and name.  
+
+![](https://github.com/DamianPyCoder/RandomAssets__minicons__V1/blob/main/play_circle_black.svg)  In the middle, the Play/Pause button with the song playback progress just below it.  
+
+![](https://github.com/DamianPyCoder/RandomAssets__minicons__V1/blob/main/volum.svg)  On the right, the volume control.  
 
 
 
@@ -24,7 +30,7 @@ All of this with clean code, best practices, and component reuse.
 <img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/NodeJS-Dark.svg" width="50">
 
 
-## 3. How to Download the Repository / Install the APK
+## 3. How to Download the Repository / Install the APK.
 
 <details>
 <summary>Clone the repository from GitHub</summary>
@@ -89,18 +95,18 @@ All of this with clean code, best practices, and component reuse.
 
 
 
-## 4. Development Roadmap
+## 4. Development Roadmap.
 
 
 
 
-## 5. Typography, Colors, Icons and Other Elements  
+## 5. Typography, Colors, Icons and Other Elements.  
 
-### 5.1 Icons
+### 5.1 Icons.
 <img src="https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/logo-name-green.png" width="50">  <img src="https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/logo-white.png" width="50">  <img src="https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/logo-green.png" width="50">  
 Source of the icon: [Uniconlabs](https://www.flaticon.es/icono-gratis/nota-musical_3293813?related_id=3293822&origin=search)  
 
-### 5.2 Color palette 
+### 5.2 Color palette.
 <img src="https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/raw/main/reproductor_picts/Palette2.png" height="50%">  
 
 
@@ -109,23 +115,13 @@ Source of the icon: [Uniconlabs](https://www.flaticon.es/icono-gratis/nota-music
 
 
 
-## 6. Images and Videos
-### 6.1 Login and register
+## 6. Images and Videos.
+### 6.1 Login and register.
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/0.png)
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/1.png)
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/2.png)
 
-### 6.2 The music player
-![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/10.png)
-
-![](https://github.com/DamianPyCoder/RandomAssets__minicons__V1/blob/main/songlibrary.svg)  On the left, the song image and name.  
-
-![](https://github.com/DamianPyCoder/RandomAssets__minicons__V1/blob/main/play_circle_black.svg)  In the middle, the Play/Pause button with the song playback progress just below it.  
-
-![](https://github.com/DamianPyCoder/RandomAssets__minicons__V1/blob/main/volum.svg)  On the right, the volume control.  
-
-
-### 6.3 The library
+### 6.2 The library.
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/4.png)
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/5.png)
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/6.png)
@@ -133,7 +129,7 @@ Source of the icon: [Uniconlabs](https://www.flaticon.es/icono-gratis/nota-music
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/8.png)
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/9.png)
 
-### 6.4 Manage Library and Profile
+### 6.3 Manage Library and Profile.
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/3.png)
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/11.png)
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/13.png)
