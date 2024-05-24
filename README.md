@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+
 # HONIDA WAVE MUSIC PLAYER 
 ## 1. Description.
 Spotify clone built with React, Electron, and Firebase, where both user information and library content (songs, albums, and artists) will be hosted. All of this with clean code, best practices, and component reuse. 
@@ -17,7 +19,7 @@ On the right side, we will have buttons to log out and to access our user profil
 
 ![](https://github.com/DamianPyCoder/RandomAssets__minicons__V1/blob/main/volum.svg)  On the right, the volume control.  
 
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 2. Built with.
 <img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/VSCode-Dark.svg" width="50"> <img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/React-Dark.svg" width="50">
