@@ -19,7 +19,8 @@ On the right side, we will have buttons to log out and to access our user profil
 
 ![](https://github.com/DamianPyCoder/RandomAssets__minicons__V1/blob/main/volum.svg)  On the right, the volume control.  
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>![](https://github.com/DamianPyCoder/RandomAssets__minicons__V1/blob/main/arrowTop.svg)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 2. Built with.
 <img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/VSCode-Dark.svg" width="50"> <img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/React-Dark.svg" width="50">
@@ -29,6 +30,7 @@ On the right side, we will have buttons to log out and to access our user profil
 <img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/Yarn-Dark.svg" width="50">
 <img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/NodeJS-Dark.svg" width="50">
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 3. How to Download the Repository / Install the APK.
 
@@ -93,12 +95,12 @@ On the right side, we will have buttons to log out and to access our user profil
 
 </details>
 
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 4. Development Roadmap.
 
 
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 5. Typography, Colors, Icons and Other Elements.  
 
@@ -109,7 +111,7 @@ Source of the icon: [Uniconlabs](https://www.flaticon.es/icono-gratis/nota-music
 ### 5.2 Color palette.
 <img src="https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/raw/main/reproductor_picts/Palette2.png" height="50%">  
 
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -121,6 +123,8 @@ Source of the icon: [Uniconlabs](https://www.flaticon.es/icono-gratis/nota-music
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/1.png)
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/2.png)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### 6.2 The library.
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/4.png)
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/5.png)
@@ -129,8 +133,12 @@ Source of the icon: [Uniconlabs](https://www.flaticon.es/icono-gratis/nota-music
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/8.png)
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/9.png)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### 6.3 Manage Library and Profile.
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/3.png)
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/11.png)
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/13.png)
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/12.png)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
