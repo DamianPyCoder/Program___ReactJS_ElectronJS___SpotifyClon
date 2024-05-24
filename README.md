@@ -1,4 +1,7 @@
 
+# HONIDA WAVE MUSIC PLAYER
+## Desktop application
+
 Built with React JS, Electron JS, Firebase and SASS
 
 <img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/VSCode-Dark.svg" width="50"> <img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/React-Dark.svg" width="50">
