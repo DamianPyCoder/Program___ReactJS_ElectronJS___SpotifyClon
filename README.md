@@ -49,7 +49,7 @@ Source of the icon: [Uniconlabs](https://www.flaticon.es/icono-gratis/nota-music
 
 On the left, the song image and name.  
 
-![](https://github.com/DamianPyCoder/RandomAssets__minicons__V1/blob/main/play_circle.svg)  
+![](https://github.com/DamianPyCoder/RandomAssets__minicons__V1/blob/main/play_circle_black.svg)  
 In the middle, the Play/Pause button with the song playback progress just below it.  
 
 On the right, the volume control.  
