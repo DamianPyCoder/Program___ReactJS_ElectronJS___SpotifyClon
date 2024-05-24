@@ -131,7 +131,7 @@ On the right side, we will have buttons to log out and to access our user profil
     - [x] Getting and rendering albums.
     - [x] Getting and rendering songs.
 - [ ] Multi-language Support.
-- [x] English.
+    - [ ] English.
     - [x] Spanish.
     - [ ] French.
     - [ ] German.
