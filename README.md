@@ -1,6 +1,7 @@
 
 # HONIDA WAVE MUSIC PLAYER
 ## 1. Description.
+<img src="https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/src/assets/png/logo-name-green.png)" width="50">
 
 ## 2. Built with.
 React JS, Electron JS, Firebase and SASS
