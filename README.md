@@ -11,6 +11,10 @@ On the right side, we will have buttons to log out and to access our user profil
 All of this with clean code, best practices, and component reuse.  
 
 
+
+
+
+
 ## 2. Built with.
 <img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/VSCode-Dark.svg" width="50"> <img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/React-Dark.svg" width="50">
 <img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/Electron.svg" width="50">
@@ -22,11 +26,19 @@ All of this with clean code, best practices, and component reuse.
 
 ## 3. How to Download the Repository / Install the APK
 **Clone the repository from GitHub:**
+<details>
+<summary>Haz clic aquí para ver más</summary>
+
    - Open your terminal or command line on your computer.
    - Use the `git clone` command followed by the repository URL to clone the project to your local machine.
      ```
      git clone https://repository-url.git
      ```
+
+</details>
+
+
+
 
 **Install dependencies:**
    - Once the repository is cloned to your local machine, navigate to the project directory.
