@@ -1,8 +1,8 @@
 
 # HONIDA WAVE MUSIC PLAYER
-##
+## 1. Description.
 
-## Built with.
+## 2. Built with.
 React JS, Electron JS, Firebase and SASS
 
 <img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/VSCode-Dark.svg" width="50"> <img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/React-Dark.svg" width="50">
@@ -11,4 +11,19 @@ React JS, Electron JS, Firebase and SASS
 <img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/Sass.svg" width="50">
 <img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/Yarn-Dark.svg" width="50">
 <img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/NodeJS-Dark.svg" width="50">
+
+
+## 3. How to Download the Repository / Install the APK
+
+
+## 4. Images and Videos
+
+
+## 5. Development Roadmap
+
+
+## 6. Typography, Colors, icons and Other Elements
+
+
+## 7. Acknowledgements
 
