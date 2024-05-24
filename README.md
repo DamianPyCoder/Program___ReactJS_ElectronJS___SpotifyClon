@@ -20,9 +20,14 @@ React JS, Electron JS, Firebase and SASS
 
 ## 4. Development Roadmap
 
-## 5. Typography, Colors, icons and Other Elements
+## 5. Typography, Colors, Icons and Other Elements
 ### 5.1 Icons
 <img src="https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/logo-name-green.png" width="50">
+https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/logo-white.png
+https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/logo-green.png
+Source of the icon: [Uniconlabs](https://www.flaticon.es/icono-gratis/nota-musical_3293813?related_id=3293822&origin=search)
+
+
 
 ## 6. Images and Videos
 ### 6.1 Login and register
@@ -41,10 +46,8 @@ React JS, Electron JS, Firebase and SASS
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/8.png)
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/9.png)
 
-### 6.4 Profile
+### 6.4 Manage Library and Profile
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/3.png)
-
-### 6.5 Edit library
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/11.png)
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/13.png)
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/12.png)
