@@ -146,20 +146,6 @@ On the right side, we will have buttons to log out and to access our user profil
     - [x] Configuring width and height.
     - [x] Changing the app title and icon.
 - [ ] Last refactoring and general check.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
