@@ -25,7 +25,8 @@ React JS, Electron JS, Firebase and SASS
 <img src="https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/logo-name-green.png" width="50">  <img src="https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/logo-white.png" width="50">  <img src="https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/logo-green.png" width="50">  
 Source of the icon: [Uniconlabs](https://www.flaticon.es/icono-gratis/nota-musical_3293813?related_id=3293822&origin=search)
 ### 5.2 Color palette
-[![Palette](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/raw/main/reproductor_picts/Palette.png){:height="1%" width="5%"}
+<img src="https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/raw/main/reproductor_picts/Palette.png" width="20%" height="5%">
+
 
 
 
