@@ -99,6 +99,68 @@ On the right side, we will have buttons to log out and to access our user profil
 
 ## 4. Development Roadmap.
 
+- [x] Design and organization of the app.
+- [x] Selection of color palette, fonts and other issues related to UX/UI.
+- [x] Database design.
+- [x] Creating the React JS app and adding Electron JS and SASS.
+- [x] Creating a project in Firebase and adding it to the app.
+- [x] Navigation system.
+    - [x] Zone for logged-in and non-logged-in users.
+    - [x] Pages for the logged-in zone.
+    - [x] Navigation for logged-in users.
+    - [x] Navigation for non-logged-in users.
+- [x] Registration and login system.
+    - [x] Creating the registration form.
+    - [x] Logout button.
+    - [x] Creating the login form.
+    - [x] Controlling and validating forms.
+- [x] User zone layouts.
+    - [x] Layout structure.
+    - [x] Left Menu.
+    - [x] Top Bar.
+    - [x] Footer structure.
+    - [x] Player structure.
+- [x] User settings.
+    - [x] Avatar component and communication with Firebase.
+    - [x] Form to change displayName.
+    - [x] Form to change email.
+    - [x] Form to change password.
+- [x] Forms for creating artists, albums, and uploading songs.
+- [x] Home screen.
+    - [x] Getting and rendering the latest artists.
+    - [x] Getting and rendering albums.
+    - [x] Getting and rendering songs.
+- [ ] Multi-language Support.
+- [x] English.
+    - [x] Spanish.
+    - [ ] French.
+    - [ ] German.
+    - [ ] Arabic.
+- [x] Creating the music player.
+    - [x] Controlling the song to be played.
+    - [x] Volume control.
+    - [x] Playing the song.
+    - [x] Player controls.
+    - [x] Timeline of the playback.
+- [x] Electron configuration.
+    - [x] Configuring width and height.
+    - [x] Changing the app title and icon.
+- [ ] Last refactoring and general check.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
