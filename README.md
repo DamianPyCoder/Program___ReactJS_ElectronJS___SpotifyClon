@@ -20,6 +20,9 @@ React JS, Electron JS, Firebase and SASS
 
 ## 4. Development Roadmap
 
+
+
+
 ## 5. Typography, Colors, Icons and Other Elements  
 
 ### 5.1 Icons
@@ -29,7 +32,7 @@ Source of the icon: [Uniconlabs](https://www.flaticon.es/icono-gratis/nota-music
 ### 5.2 Color palette 
 <img src="https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/raw/main/reproductor_picts/Palette2.png" height="50%">  
 
-### 5.3 Typography 
+
 
 
 
