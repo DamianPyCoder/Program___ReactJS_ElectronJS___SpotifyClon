@@ -47,15 +47,11 @@ Source of the icon: [Uniconlabs](https://www.flaticon.es/icono-gratis/nota-music
 ### 6.2 The music player
 ![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/10.png)
 
-![](https://github.com/DamianPyCoder/RandomAssets__minicons__V1/blob/main/songlibrary.svg)
-On the left, the song image and name.  
+![](https://github.com/DamianPyCoder/RandomAssets__minicons__V1/blob/main/songlibrary.svg)  On the left, the song image and name.  
 
-![](https://github.com/DamianPyCoder/RandomAssets__minicons__V1/blob/main/play_circle_black.svg)  
-In the middle, the Play/Pause button with the song playback progress just below it.  
+![](https://github.com/DamianPyCoder/RandomAssets__minicons__V1/blob/main/play_circle_black.svg)  In the middle, the Play/Pause button with the song playback progress just below it.  
 
-
-![](https://github.com/DamianPyCoder/RandomAssets__minicons__V1/blob/main/volum.svg)
-On the right, the volume control.  
+![](https://github.com/DamianPyCoder/RandomAssets__minicons__V1/blob/main/volum.svg)  On the right, the volume control.  
 
 
 ### 6.3 The library
