@@ -2,7 +2,7 @@
 
 # HONIDA WAVE MUSIC PLAYER 
 
-[![Rick Astley - Never Gonna Give You Up](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/0.png)](https://www.youtube.com/watch?v=CAevJbKXzTI)
 
 
 
