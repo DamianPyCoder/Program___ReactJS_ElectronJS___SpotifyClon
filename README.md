@@ -5,11 +5,7 @@
 [![](https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/0.png)](https://www.youtube.com/watch?v=CAevJbKXzTI)  
 
 
-<div style="text-align: center;">
-   Pulsa en la imagen para reproducir la demostración en Youtube.
-</div>  
-
-
+<p align="right">(<a href="https://www.youtube.com/watch?v=CAevJbKXzTI">Pulsa en la imagen para reproducir la demostración en Youtube</a>)</p>
 
 
 
