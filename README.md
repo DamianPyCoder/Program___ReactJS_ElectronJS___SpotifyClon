@@ -1,6 +1,13 @@
 <a name="readme-top"></a>
 
 # HONIDA WAVE MUSIC PLAYER 
+
+[![Rick Astley - Never Gonna Give You Up](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+
+
+
+
 ## 1. Description.
 Spotify clone built with React, Electron, and Firebase, where both user information and library content (songs, albums, and artists) will be hosted. All of this with clean code, best practices, and component reuse. 
 
